@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "errno.h": "c",
+    "stat.h": "c",
+    "unistd.h": "c",
+    "paths.h": "c",
+    "time.h": "c",
+    "vmparam.h": "c",
+    "resource.h": "c"
+  }
+}
